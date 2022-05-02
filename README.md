@@ -50,7 +50,7 @@ For Escrow payment and failed payments scenarios, Trise is **integrated with Sal
 6. How power of such global tech element like Circle could bring advantage to address beyond current market share
 7.  Learned how Circle APIs have been structured to apply for a specific business need
 
-** What's next for Trise**
+**What's next for Trise**
 Voice is the future and how we could integrate the Trise to voice ecosystem entities like Alexa, Google Home
 Contact center features
 Integration with twillio
