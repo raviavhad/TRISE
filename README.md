@@ -18,7 +18,7 @@ Large-scale enterprise programme and project management
 
 
 
-** How we built it**
+**How we built it**
 Automation and hyper productivity are core dimensions of platform development approach. On the foundation of Quickbase **low code no code** platform - developed multiple workflows that encompass modules of **collect payments, beneficiary addition and validation, disburse individual/mass payouts, wallet to wallet transfer, recurring payouts in defined interval, escrow feature, FX support** supported by additional modules of project execution covering admin, originator and work performers.
 
 Platform is integrated with Circle api endpoints for above referred payment capabilities - **Collect, Disburse, Wallet and Point of Sale**
@@ -27,10 +27,10 @@ Low code platform allowed to adapt and innovate with speed that matches the pace
 
 Circle API are core of the platform and this integration was seamless because of the self sufficient documentation available on Circle developer portal. Available endpoints at Postman allowed to work in parallel to test the workflows. 
 
-** Challenges we ran into
+**Challenges we ran into**
 Integration challenges between low code platform and Circle API endpoints. This enforced us to think differently - developed additional layer of abstraction exposing course grained Circle API end points that matches the workflow requirements deployed on IBM cloud. 
 
-** Accomplishments that we're proud of**
+**Accomplishments that we're proud of**
 End to end marketplace platform beyond traditional model to address the future needs of work, workforce, workplace. Platform will be gamechanger to stakeholders including larger enterprises where they could adopt Trise as backbone to project executions. Example - In built **project management suites** makes the platform distinguished to current players and **one stop solution to projects of any size.** 
 
 Such envisioned platform at scale demands additional payments requirements - **cross border** payments and payouts methods, seamless in real-time **global payment** coverage including multiple channels - cards, bank transfers, e-wallets and cash, security at core and fraud prevention. All these have been implemented with Circle provided features.
@@ -41,7 +41,7 @@ In addition, quickbase has extended measure on security front -Strictest complia
 
 For Escrow payment and failed payments scenarios, Trise is **integrated with Salesforce service cloud** to address offline transactions 
 
-** What we learned**
+**What we learned**
 1.  Brainstorming on how we could funnel through to get the right problem to address. Leveraged the design thinking approach to note down the prioritized problems with post pandemic in mind.
 2. How we could experiment with cross tech stacks to bring much needed speed, flexibility
 3. Learned the associated minute details on cross border, cross currency payments in a seamless & real time fashion
